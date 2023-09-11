@@ -5,12 +5,13 @@
 
 - 💬 Pergunte-me sobre: **C, Java, Matemática**
 
-- 📫 Email: **ryanleitebezerra@gmail.com**
+- 📫 Contatos: **ryanleitebezerra@gmail.com**
 
 - ⚡ Fato engraçado: **Adoro Donuts 🍩**
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ryan-leite-bezerra-307990290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-leite-bezerra-307990290" height="30" width="40" /></a>
 <a href="https://fb.com/rian.leiteb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rian.leiteb" height="30" width="40" /></a>
 <a href="https://instagram.com/ryanleite__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryanleite__" height="30" width="40" /></a>
 </p>
