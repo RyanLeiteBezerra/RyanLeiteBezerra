@@ -7,7 +7,7 @@
 
 - 📫 Contatos: **ryanleitebezerra@gmail.com**
 
-- ⚡ Fato engraçado: **Adoro Donuts 🍩**
+- ⚡ Fato engraçado: **Adoro dormir de rede 💤**
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
