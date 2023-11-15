@@ -9,6 +9,8 @@
 
 - ⚡ Fato engraçado: **Adoro dormir de rede 💤**
 
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Ts" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
