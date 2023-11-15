@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Ryan Leite</h1>
+<h1 align="center">Oi 👋🏻, eu sou Ryan Leite</h1>
 <h3 align="center">Σ Engenharia de Computação | IFCE</h3>
 
 - 🌱 Atualmente, estou aprendendo **Java**
