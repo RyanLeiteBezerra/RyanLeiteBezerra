@@ -24,4 +24,4 @@
   
 </div>
 
-![snake gif](https://github.com/RyanLeiteBezerra/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RyanLeiteBezerra/RyanLeiteBezerra/blob/output/github-contribution-grid-snake.svg)
