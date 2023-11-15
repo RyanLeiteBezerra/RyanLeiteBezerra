@@ -29,5 +29,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLeiteBezerra/RyanLeiteBezerra/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyanLeiteBezerra/RyanLeiteBezerra/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [RyanLeiteBezerra/snk](https://github.com/RyanLeiteBezerra/snk)_
