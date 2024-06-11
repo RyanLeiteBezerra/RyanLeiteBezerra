@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋🏻, eu sou Ryan Leite</h1>
 <h3 align="center">Σ Engenharia de Computação | IFCE</h3>
 
-- 🌱 Atualmente, estou aprendendo **Java**
+- 🌱 Atualmente, estou aprendendo **Data Science**
 
-- 💬 Pergunte-me sobre: **C, Java, Matemática**
+- 💬 Pergunte-me sobre: **C, Java, Python, Matemática**
 
 - 📫 Contatos: **ryanleitebezerra@gmail.com**
 
