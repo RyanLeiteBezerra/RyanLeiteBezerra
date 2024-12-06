@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou aprendendo **Data Science**
 
-- 💬 Pergunte-me sobre: **C, Java, Python, Matemática**
+- 💬 Pergunte-me sobre: **C/C++, Java, Python, Matemática**
 
 - 📫 Contatos: **ryanleitebezerra@gmail.com**
 
